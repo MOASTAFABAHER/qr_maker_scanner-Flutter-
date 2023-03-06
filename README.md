@@ -1,16 +1,11 @@
 # qr_reader_scanner
 
-A new Flutter project.
+Flutter QR maker and reader app is a mobile application built using the Flutter framework that allows users to create and scan QR codes.
+
 
 ## Getting Started
 
+
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![qr_scanner_and maker](https://user-images.githubusercontent.com/54923600/223205482-962dd2d3-19ae-4166-a88d-7d1303b8d22e.png)
